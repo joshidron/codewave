@@ -34,6 +34,17 @@ MockMate simulates interview environments where users can:
 | **Execution**| Localhost server (e.g., `127.0.0.1:5501/index.html`) |
 
 ---
+🤖 AI Tools We Used for Support
+During the development and planning of this project, we used modern AI assistance tools for brainstorming, error resolution, and design guidance:
+
+
+ChatGPT (OpenAI)
+Gemini AI (Google)
+Perplexity AI
+
+These tools helped us accelerate development, refine content, and validate code logic where needed.
+
+
 
 ## 🧠 Key Features
 
