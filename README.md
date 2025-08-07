@@ -1,36 +1,49 @@
-# codewave
+# 🎯 TRACE-3: MockMate — AI Interview Coach for Students
 
-<h1>3. 🤖 MockMate — AI Interview Coach for Students
-📝 Description (Revised):
- MockMate is an AI-powered interview assistant that simulates job interviews and provides personalized feedback to students, helping them improve anytime, anywhere.
-</h1>
-<h3></h3>💡 What It Does:
-Simulates realistic interviews (via chat or voice)
+> Helping students prepare for interviews with real-time AI feedback and practice sessions.
 
+## 👥 Team: Tech Titan
 
-Asks job-specific or general interview questions (e.g., “Tell me about yourself”)
+| Name         | Role                        |
+|--------------|-----------------------------|
+| **Dron Joshi**  | Team Leader & Frontend Developer |
+| **Trith Joshi** | Backend Developer              |
+| **Kanj Vays**   | Product Owner & Database Lead   |
 
+---
 
-Accepts spoken or typed answers
+## 💡 Project Overview
 
+**MockMate** (assigned under TRACE-3) is an AI-driven interview preparation platform designed to help students build confidence and readiness through interactive mock interviews and real-time feedback.
 
-Uses AI to:
-Analyze tone, confidence, clarity, and structure
-Offer instant feedback and tips
-Score responses
+MockMate simulates interview environments where users can:
+- Practice technical and behavioral interview questions.
+- Get intelligent feedback using Python-driven algorithms.
+- Improve soft skills and technical articulation.
+- Track performance over time.
 
-🎯 Use Cases:
----> Students preparing for job or internship interviews
----> Career centers or colleges offering AI-based mock interviews
+---
 
-</h3>
-<h3>Any one can visit our code solution from here by using this link</h3>
-<h1>https://joshidron.github.io/codewave/</h1>
+## 🛠️ Technologies Used
 
+| Layer       | Tools & Languages                                  |
+|-------------|----------------------------------------------------|
+| **Frontend** | HTML, CSS, JavaScript (fully responsive design)   |
+| **Backend**  | Python (used for dynamic and varied feedback)     |
+| **Design**   | Canva, Open Google Assets for UI inspiration      |
+| **Execution**| Localhost server (e.g., `127.0.0.1:5501/index.html`) |
 
+---
 
+## 🧠 Key Features
 
+- 🔁 Dynamic and unique feedback using Python
+- 📱 Mobile-first responsive design
+- 🎤 AI interview question delivery and answer analysis
+- 📊 Progress tracking and improvement tips
+- 🧩 Easy-to-use interface for all student levels
 
+---
 
-
-
+## 🚀 How to Run Locally
+https://github.com/joshidron/codewave.git
